@@ -17,6 +17,7 @@ h2{
   margin-right: 100px;
   margin-left: 100px;
   margin-top: 25px;
+  margin-bottom: 50px;
 }
 
 #id1{
@@ -29,7 +30,6 @@ h2{
 
 ol{
   margin-left: 25px;
-  margin-top: 50px;
   font-size: 1.25em;
 }
 
