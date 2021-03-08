@@ -2,6 +2,7 @@ body{
   background-color: hsl(190 100% 82%);
   font-family: Monaco;
   padding: 30px;
+  text-align: justify;
 }
 
 h1{
