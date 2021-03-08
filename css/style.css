@@ -1,6 +1,7 @@
 body{
-  background-color: lavender;
+  background-color: hsl(190 100% 82%);
   font-family: Garamond;
+  padding: 30px;
 }
 
 h1{
