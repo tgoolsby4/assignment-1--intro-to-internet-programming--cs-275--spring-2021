@@ -32,7 +32,6 @@ h2{
 ol{
   margin-left: 25px;
   font-size: 18px;
-  top: -20px;
 }
 
 p{
@@ -45,9 +44,9 @@ p{
 .image{
   float: left;
   padding-right: 10px;
-  top: -50px;
+  margin-top: -10px;
 }
 
 .track-list{
-  margin-left: 30px;
+  margin-top: 10px;
 }
