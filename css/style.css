@@ -22,14 +22,6 @@ h2{
   margin-bottom: 50px;
 }
 
-#id1{
-  text-align: left;
-  font-weight: bold;
-  font-size: 22px;
-  margin-left: 25px;
-  margin-top: 25px;
-}
-
 ol{
   margin-left: 25px;
   font-size: 18px;
@@ -53,4 +45,12 @@ img{
 
 .track-list{
   margin-top: 10px;
+}
+
+.reviews{
+  text-align: left;
+  font-weight: bold;
+  font-size: 22px;
+  margin-left: 25px;
+  margin-top: 25px;
 }
