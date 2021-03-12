@@ -1,5 +1,5 @@
 body{
-  background-color: hsl(190 100% 95%);
+  background: linear-gradient(hsl(190 100% 95%), hsl(190 100% 80%));
   font-family: Monaco;
   padding: 30px;
   text-align: justify;
@@ -64,4 +64,3 @@ b{
 .ecmreview{
   display: flex;
   justify-content: space-between;
-}
