@@ -43,6 +43,10 @@ img{
   border-color: hsl(190 100% 30%);
 }
 
+b{
+  font-weight: bold;
+}
+
 .track-list{
   margin-top: 10px;
 }
